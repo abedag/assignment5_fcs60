@@ -42,5 +42,8 @@ nav > a {
   font-size: x-large;
   font-style: italic;
   padding: 50px;
-
+  color: aliceblue;
+  transform: 0.4s;
+  border-bottom: 3px solid transparent;
 }
+
