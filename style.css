@@ -26,4 +26,10 @@ header {
 
 .logo {
   font-family: 'Playfair Display', serif;
+  font-style: italic;
+  font-size: xx-large;
+  color: aliceblue;
+  letter-spacing: 1px;
 }
+
+
