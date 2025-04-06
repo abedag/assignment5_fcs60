@@ -80,3 +80,9 @@ section {
   margin-bottom:  16px;
   font-weight: 700;
 }
+
+.home .home-content > p {
+  font-size: large;
+  padding-right: 200px;
+}
+
