@@ -22,5 +22,8 @@ header {
   display: flex;
   padding: 20px;  
 
+}
 
+.logo {
+  font-family: 'Playfair Display', serif;
 }
