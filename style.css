@@ -74,3 +74,9 @@ section {
   width: 32vw;
   border-radius: 50%;
 }
+
+.home .home-content > h3 {
+  font-size: 30px;
+  margin-bottom:  16px;
+  font-weight: 700;
+}
