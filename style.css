@@ -37,3 +37,10 @@ nav {
   padding: 10px;
 }
 
+nav > a {
+  font-family: 'Playfair Display', serif;
+  font-size: x-large;
+  font-style: italic;
+  padding: 50px;
+
+}
